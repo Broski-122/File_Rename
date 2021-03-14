@@ -1,5 +1,6 @@
 #! /bin/bash
 # Requires 'inotify-tools'
+echo "Running. . ."
 rename() {
     X='external-content.duckduckgo.com.jpg'
     Y='DuckDuckGoContent'
